@@ -310,7 +310,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.skylight-xianhan-apns.USB20160921";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "0a2a05e0-b59f-4326-80cd-a9e6b32eae6a";
+				PROVISIONING_PROFILE = "67d111a7-f529-4c28-95f2-30f1316489e5";
 				PROVISIONING_PROFILE_SPECIFIER = "com.skylight-xianhan-apns.USB20160921Profile";
 			};
 			name = Debug;
@@ -328,7 +328,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.skylight-xianhan-apns.USB20160921";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "0a2a05e0-b59f-4326-80cd-a9e6b32eae6a";
+				PROVISIONING_PROFILE = "67d111a7-f529-4c28-95f2-30f1316489e5";
 				PROVISIONING_PROFILE_SPECIFIER = "com.skylight-xianhan-apns.USB20160921Profile";
 			};
 			name = Release;
